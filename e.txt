@@ -1,3 +1,4 @@
 Adding text in the file.
 
 Adding 2nd commit to the file.
+Adding 3rd commit to the file.
